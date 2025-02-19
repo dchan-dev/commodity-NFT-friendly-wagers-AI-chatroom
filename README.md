@@ -1,6 +1,6 @@
 # Commodity NFT Friendly Wagers AI Chatroom
 
-![HealthHive AI](./logo.PNG "HealthHive AI")
+![HealthHive AI](./heroimg.png "HealthHive AI")
 
 ----
 ## Name

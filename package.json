@@ -41,7 +41,9 @@
 	"bugs": {
 		"url": "https://github.com/metamove/move-agent-kit/issues"
 	},
-	"files": ["dist"],
+	"files": [
+		"dist"
+	],
 	"homepage": "https://github.com/metamove/move-agent-kit#readme",
 	"keywords": [],
 	"author": "metamove <hello@metamove.build> (https://metamove.build)",
@@ -87,7 +89,15 @@
 		"@aptos-labs/wallet-adapter-react": "^3.7.9"
 	},
 	"pnpm": {
-		"ignoredBuiltDependencies": ["bigint-buffer", "bufferutil", "esbuild", "utf-8-validate"],
-		"onlyBuiltDependencies": ["@biomejs/biome", "lefthook"]
+		"ignoredBuiltDependencies": [
+			"bigint-buffer",
+			"bufferutil",
+			"esbuild",
+			"utf-8-validate"
+		],
+		"onlyBuiltDependencies": [
+			"@biomejs/biome",
+			"lefthook"
+		]
 	}
 }

@@ -1,6 +1,8 @@
 import type { Message } from "ai/react"
 import { useState } from "react"
 
+// import
+
 export function IntermediateStep(props: { message: Message }) {
 	const parsedInput = JSON.parse(props.message.content)
 	const action = parsedInput.action
